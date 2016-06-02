@@ -3,7 +3,7 @@
 A lesson for people who want to learn about programming, but do not want to
 learn how to program.
 
-- Wat is computation thinking?
+- What is computational thinking?
   - Important elements [3]
     * Logical Thinking
     * Algorithmic Thinking
